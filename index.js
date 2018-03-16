@@ -10,7 +10,7 @@ module.exports = () => {
         .forEach(i => a.push(i)); 
       return a;
     }, [])[0];
-  return { ip: address, mac );
+  return { ip: address, mac };
   }
 }
 
