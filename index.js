@@ -11,6 +11,5 @@ module.exports = () => {
       return a;
     }, [])[0];
   return { ip: address, mac };
-  }
-}
+};
 
